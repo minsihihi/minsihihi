@@ -34,5 +34,4 @@ Tech Stack</h3>
 />
 </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?minsihihi=anuraghazra&layout=compact)
 
