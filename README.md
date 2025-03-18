@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminsihihi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%2363E7D0&title=hits%21&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<img src="https://capsule-render.vercel.app/api?type=Venom&color=0:fc575e,100:90d5ec&height=300&section=header&text=Welcome%20to%20Jimin's%20GitHub&fontSize=40&animation=fadeIn&desc=dreaming%20of%20becoming%20a%20backend%20developer." />
+<img src="https://capsule-render.vercel.app/api?type=Venom&color=0:fc575e,100:90d5ec&height=300&section=header&text=Welcome%20to%20Minseo%20GitHub&fontSize=40&animation=fadeIn&desc=dreaming%20of%20becoming%20a%20backend%20developer." />
 
 
 <div>
@@ -33,3 +33,6 @@ Tech Stack</h3>
   height="300"
 />
 </a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?minsihihi=anuraghazra&layout=compact)
+
